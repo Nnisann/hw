@@ -1,4 +1,4 @@
-# hw
+# euclideanDistance
 import math
 
 
